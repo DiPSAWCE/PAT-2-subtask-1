@@ -10,7 +10,10 @@ During this time, communication over long distances was slow and often unreliabl
 The invention of Morse code coincided with the development of the telegraph, which allowed messages to be sent over long distances almost instantaneously using electrical signals. Morse code provided a standardized way of encoding messages for transmission over the telegraph system, making communication faster and more reliable than ever before.
 
  Morse code played a crucial role in the development of telecommunications, facilitating rapid communication over long distances and laying the groundwork for future advancements in technology. sources - The Smithsonian National Museum of American History
- 3. Morse code uses dots and dashes to represent letters, numbers, and punctuation. Here's a breakdown of how it works:
+
+ 
+ 
+3. Morse code uses dots and dashes to represent letters, numbers, and punctuation. Here's a breakdown of how it works:
 
 Encoding: Each character (letter, number, punctuation) is assigned a unique combination of dots and dashes.
 Signal Length: A "dit" is a short signal, and a "dash" is three times longer than a dit.
