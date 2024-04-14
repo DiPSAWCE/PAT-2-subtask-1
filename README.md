@@ -1,1 +1,1 @@
-# PAT-2-subtask-1
+Morse code is a method used in telecommunication to encode text characters as standardized sequences of two different signal durations, called dots and dashes, or dits and dahs. International Morse code encodes the 26 basic Latin letters a to z, one accented Latin letter (é), the Arabic numerals, and a small set of punctuation and procedural signals (prosigns). There is no distinction between upper and lower case letters
