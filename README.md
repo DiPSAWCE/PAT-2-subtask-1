@@ -9,4 +9,4 @@ During this time, communication over long distances was slow and often unreliabl
 
 The invention of Morse code coincided with the development of the telegraph, which allowed messages to be sent over long distances almost instantaneously using electrical signals. Morse code provided a standardized way of encoding messages for transmission over the telegraph system, making communication faster and more reliable than ever before.
 
- Morse code played a crucial role in the development of telecommunications, facilitating rapid communication over long distances and laying the groundwork for future advancements in technology.
+ Morse code played a crucial role in the development of telecommunications, facilitating rapid communication over long distances and laying the groundwork for future advancements in technology. sources - The Smithsonian National Museum of American History
