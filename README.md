@@ -20,3 +20,6 @@ Signal Length: A "dit" is a short signal, and a "dash" is three times longer tha
 Spacing: Pauses are used to differentiate between parts of the code. There's a short pause between dots and dashes within a character, a longer pause between characters in a word, and an even longer pause between words.
 Learning: Morse code can be learned by memorizing the dot-dash combinations for each character. However, skilled operators learn to perceive the entire code for a character as a single unit, similar to a word in spoken language.
 Transmission: Morse code can be transmitted through various methods like clicks on a telegraph, tones in radio communication, or light flashes. The signal is turned on and off to represent dots, dashes, and spaces. sources - https://en.wikipedia.org/wiki/Morse_code#:~:text=Morse%20code%20is%20a%20method,system%20adopted%20for%20electrical%20telegraphy.
+
+Morse Code example:
+Hello World = .... . .-.. .-.. --- / .-- --- .-. .-.. -..
