@@ -28,10 +28,7 @@ int main()
                               "--.-",   ".-.",      "...",      "-",
                               "..-",    "..-",      ".--",      "-..-",
                               "-.--",   "--..",
-                              // numbers  26  - 35
-                              "-----", ".----", "..---", "...--", "....-",
-                              ".....", "-....", "--...", "---..", "----."                     
-                              };
+                              
 
     
     // morse map for better search
@@ -42,12 +39,7 @@ int main()
         char ch = i+65;
         mp[morse_array[i]] = ch;
     }
-    // for numbers
-    for(int i=26; i<36; i++)
-    {
-        char ch = i+(48-26);
-        mp[morse_array[i]] = ch;
-    }
+   
 
     // string data input
     string s;
@@ -84,10 +76,6 @@ int main()
             // alphabet
             if(ch >= 65 && ch <= 90)
                 cout << morse_array[ch-65] << " ";
-
-            // number (numbers start at array index 26)
-            else if(ch >= 48 && ch <= 57)
-                cout << morse_array[ch-48 + (26)] << " ";
 
             // invalid english character
             else
